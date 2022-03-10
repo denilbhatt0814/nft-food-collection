@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# NFT Food collection
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This nft collection project was an implementaion of [BuildSpace](https://app.buildspace.so/projects/CO961ddb5f-f428-4608-9949-a9a2f461eb3f) that I made with help of ERC721 for having minting funcitons. I have also implemented a way to generate random NFTs and stored as SVGs.\
+It was a lot to learn about the minting, and generating SVGs and storing them on chain.
+Have a look at the project [here]("https://denilbhatt-nft-food-collection.netlify.app/")
